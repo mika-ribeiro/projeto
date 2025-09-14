@@ -1,0 +1,6 @@
+Este PR adiciona um mini projeto em Python para consumir uma API de piadas.
+- feat: buscar piada de API
+- feat: script principal
+- chore: adicionar requirements.txt
+- docs: instruções no README
+- fix: tratamento de erros
